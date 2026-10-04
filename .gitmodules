@@ -1,0 +1,9 @@
+[submodule "USB_Wave_Generater-FPGA"]
+	path = USB_Wave_Generater-FPGA
+	url = https://github.com/ccapen/USB_Wave_Generater-FPGA.git
+[submodule "USB_Wave_Generater-MCU"]
+	path = USB_Wave_Generater-MCU
+	url = https://github.com/ccapen/USB_Wave_Generater-MCU.git
+[submodule "USB_Wave_Generater-APP"]
+	path = USB_Wave_Generater-APP
+	url = https://github.com/ccapen/USB_Wave_Generater-APP.git
