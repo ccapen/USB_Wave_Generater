@@ -1,4 +1,4 @@
 ## USB任意波形发生器  
 采样率125MHz，带宽10MHz，采样点数4M  
 使用USB线连接到电脑，再用上位机发送波形文件即可输出波形  
-硬件开源于立创开源社区
+硬件开源于立创开源社区https://oshwhub.com/czad/project_dnosupzh
